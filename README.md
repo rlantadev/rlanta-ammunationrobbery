@@ -1,7 +1,7 @@
 # rlanta-ammunationrobbery
 
 
- It is a system designed to enable players to obtain weapons illegally.
+ It is a system designed to enable players to obtain weapons illegally for FiveM servers.
 
 Dependecies
 - qb-core
